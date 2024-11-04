@@ -3,7 +3,10 @@
 Just a Tech
 
 - 💻 Python/C
-- 🌐 Getting into cyber
+- 🌐 HTML/CSS
+- ⚡ SQL
+- 📖 JS/PHP
+- 👾 Getting into cyber
 
 ## Contact
 
