@@ -6,7 +6,7 @@ Just a Tech
 - 🌐 HTML/CSS
 - ⚡ SQL
 - 📖 JS/PHP
-- 👾 Getting into cyber
+- 👾 Cyber enthusiast
 
 ## Contact
 
