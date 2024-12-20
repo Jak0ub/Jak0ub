@@ -3,6 +3,7 @@
 Just a Tech
 
 - 💻 Python/C
+- 👨‍💻 Shell/Batch
 - 🌐 HTML/CSS
 - ⚡ SQL
 - 📖 JS/PHP
