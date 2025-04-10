@@ -1,4 +1,4 @@
-# Jak0ub
+# [Jak0ub](https://github.com/kroufino/)
 
 Just a Tech
 
