@@ -9,6 +9,10 @@ Just a Tech
 - 📖 JS/PHP
 - 👾 Cyber enthusiast
 
+##  Work worth your time
+
+- 🔗 [Czech lang](https://github.com/kroufino/Pygame-Snake)
+
 ## Contact
 
 - 📧 jak0ub@proton.me
