@@ -16,7 +16,13 @@ Just a Tech
 ## Contact
 
 - 📧 jak0ub@proton.me
+- 
+## Profiles
 
+- ⚡ [Try Hack Me](https://tryhackme.com/p/jakoub)
+- ⚡ [Hack The Box](https://app.hackthebox.com/users/1967289)
+- ⚡ [PicoCTF](https://play.picoctf.org/users/jak0ub)
+  
 ## PGP
 ```PGP
 -----BEGIN PGP PUBLIC KEY BLOCK-----
