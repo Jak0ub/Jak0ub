@@ -23,8 +23,8 @@ Nc9Wd2cgnpPLAP9OtEhDHrryzy/FfMe+hjcUi+/QJYl6Uf4SNQOrWpz9Cw==
 
 # Done
 
-- [x] [Blue Team Project (Cyber)](https://github.com/Jak0ub/CLI_Chatter) ![Live](https://img.shields.io/badge/status-live-brightgreen)
-- [x] Red Team Project (Cyber) ![Private](https://img.shields.io/badge/status-private-lightgrey)
+- [x] [Blue Team Project (Cyber)](https://github.com/Jak0ub/CLI_Chatter) 
+- [x] Red Team Project (Cyber) `not public for its capabilities (Would be taken down on GitHub)`
 - [X] Some other projects focusing on cyber space from long ago
 
 
