@@ -27,5 +27,14 @@ Nc9Wd2cgnpPLAP9OtEhDHrryzy/FfMe+hjcUi+/QJYl6Uf4SNQOrWpz9Cw==
 - [x] Red Team Project (Cyber) `not public for its capabilities (Would be taken down by GitHub)`
 - [X] Some other projects focusing on cyber space from long ago (many not public)
 
+# Other profiles
 
-
+<a href="https://tryhackme.com/p/jakoub">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/jakoub.png" height="60" alt="TryHackMe"/>
+</a><br>
+<a href="https://app.hackthebox.com/users/1967289">
+  <img src="https://www.hackthebox.eu/badge/image/1967289" height="60" alt="HackTheBox"/>
+</a><br>
+<a href="https://play.picoctf.org/users/jak0ub">
+  <img src="https://img.shields.io/badge/pico-CTF-FF6B35?style=for-the-badge&labelColor=1a1a2e&logoColor=white&logo=hackthebox" height="60" alt="picoCTF"/>
+</a>
