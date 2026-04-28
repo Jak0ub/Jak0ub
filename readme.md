@@ -32,7 +32,7 @@ Nc9Wd2cgnpPLAP9OtEhDHrryzy/FfMe+hjcUi+/QJYl6Uf4SNQOrWpz9Cw==
 <a href="https://tryhackme.com/p/jakoub">
   <img src="https://tryhackme-badges.s3.amazonaws.com/jakoub.png" height="60" alt="TryHackMe"/>
 </a><br>
-<a href="https://app.hackthebox.com/users/1967289">
+<a href="https://app.hackthebox.com/public/users/1967289">
   <img src="https://www.hackthebox.eu/badge/image/1967289" height="60" alt="HackTheBox"/>
 </a><br>
 <a href="https://play.picoctf.org/users/jak0ub">
