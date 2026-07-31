@@ -38,3 +38,5 @@ Nc9Wd2cgnpPLAP9OtEhDHrryzy/FfMe+hjcUi+/QJYl6Uf4SNQOrWpz9Cw==
 <a href="https://play.picoctf.org/users/jak0ub">
   <img src="https://img.shields.io/badge/pico-CTF-FF6B35?style=for-the-badge&labelColor=1a1a2e&logoColor=white&logo=hackthebox" height="60" alt="picoCTF"/>
 </a>
+
+![](https://komarev.com/ghpvc/?username=jak0ub&abbreviated=true)
