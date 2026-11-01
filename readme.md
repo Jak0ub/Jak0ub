@@ -35,7 +35,16 @@ I'm a cybersecurity student at **Masaryk University (MUNI)** with a focus on net
 
 ## ▶️ Showcase
 
-<video src="./bcd.mp4" autoplay loop muted playsinline></video>
+<table align="center">
+  <tr>
+    <td>
+
+[https://github.com/user-attachments/assets/TVOJE-ID](https://github.com/user-attachments/assets/69226062-1172-4c96-b2d5-24c221355410)
+
+  </td>
+  </tr>
+</table>
+
 
 
 ## 🏆 Achievements
