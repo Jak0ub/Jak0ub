@@ -35,7 +35,7 @@ I'm a cybersecurity student at **Masaryk University (MUNI)** with a focus on net
 
 ## ▶️ Showcase
 
-[https://raw.githubusercontent.com/jak0ub/jak0ub/main/bcd.mp4](https://raw.githubusercontent.com/jak0ub/jak0ub/main/bcd.mp4)
+<video src="./bcd.mp4" autoplay loop muted playsinline></video>
 
 
 ## 🏆 Achievements
