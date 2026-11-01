@@ -14,7 +14,7 @@ I'm a cybersecurity student at **Masaryk University (MUNI)** with a focus on net
 
 | Area | What I work with |
 |---|---|
-| Languages | Python, C, SQL, Bash |
+| Languages | Python, C, SQL, Bash, Intel 8080 Assembly |
 | Systems | Linux/Unix, Windows internals |
 | Networking | L1–L3, firewalls, Docker, basic Kubernetes |
 | Infrastructure | Raspberry Pi, home lab / self-hosting |
@@ -30,7 +30,13 @@ I'm a cybersecurity student at **Masaryk University (MUNI)** with a focus on net
 
 **Other**
 - Logic design in Minecraft: 3-bit ALU adder with carry, plus asynchronous 3x3 and 4x4 piston doors.
+- BCD stored data with display output in Minecraft. Reset mechanism + carry bit solved.
 - Built a parental-control setup for a younger sibling’s device: self-hosted DNS for domain blocking, scheduled scripts enforcing bedtime internet cutoffs, and app/process restrictions via Windows scheduling and policy tools. All managed centrally from one home-network dashboard.
+
+## ▶️ Showcase
+
+[https://raw.githubusercontent.com/jak0ub/jak0ub/main/bcd.mp4](https://raw.githubusercontent.com/jak0ub/jak0ub/main/bcd.mp4)
+
 
 ## 🏆 Achievements
 
