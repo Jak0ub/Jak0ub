@@ -39,7 +39,7 @@ I'm a cybersecurity student at **Masaryk University (MUNI)** with a focus on net
   <tr>
     <td>
 
-[https://github.com/user-attachments/assets/TVOJE-ID](https://github.com/user-attachments/assets/69226062-1172-4c96-b2d5-24c221355410)
+[https://github.com/user-attachments/assets/8d404eb2-461e-4e00-895a-4f685dd2c49d](https://github.com/user-attachments/assets/8d404eb2-461e-4e00-895a-4f685dd2c49d)
 
   </td>
   </tr>
