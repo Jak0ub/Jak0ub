@@ -29,9 +29,14 @@ I'm a cybersecurity student at **Masaryk University (MUNI)** with a focus on net
 - Custom C2 framework for Windows and a BadUSB payload. *A Windows C2 PoC built to demonstrate how easily an endpoint can be fully compromised and remotely controlled once initial access is gained — used to study detection and defense, not to target others.*
 
 **Other**
-- Logic design in Minecraft: 3-bit ALU adder with carry, plus asynchronous 3x3 and 4x4 piston doors.
-- BCD stored data with display output in Minecraft. Reset mechanism + carry bit solved.
 - Built a parental-control setup for a younger sibling’s device: self-hosted DNS for domain blocking, scheduled scripts enforcing bedtime internet cutoffs, and app/process restrictions via Windows scheduling and policy tools. All managed centrally from one home-network dashboard.
+
+**Low-Level Architecture (Minecraft)**
+*Designed and built 100% from scratch without tutorials.*
+- 3-bit ALU adder with carry to 4th bit. 2 registers + 1 register for the result.
+- Asynchronous 3x3 and 4x4 piston doors.
+- BCD stored data with display output. Reset mechanism + carry bit solved. Just one register, but adding 3 then 4 shows the 7 on the display and stores it in the register A.
+
 
 ## ▶️ Showcase
 
